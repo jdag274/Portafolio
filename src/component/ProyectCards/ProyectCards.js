@@ -52,7 +52,7 @@ const ProyectCards = () => {
                 <ProyectCardText>El portafolio <br /> en el que estas <br /> actualmente </ProyectCardText>
                
               <ButtonsContainer>
-                <GithubLink to="#" >
+                <GithubLink href="https://github.com/jdag274/portafolio" >
                     <GitHub />
                 </GithubLink>
 
