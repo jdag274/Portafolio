@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { NavLink as Link } from "react-router-dom";
 
-import { GiBackpack } from "react-icons/gi";
+import { FaGripHorizontal } from "react-icons/fa";
 
 
 
@@ -45,7 +45,7 @@ cursor: pointer;
 }
 `
 
-export const Bars = styled(GiBackpack)`
+export const Bars = styled(FaGripHorizontal)`
 display: none;
 color: #fff;
 
@@ -58,10 +58,18 @@ color: #fff;
     font-size:3rem;
     cursor: pointer;
     fill:white;
+    transition:400ms;
+    
 }
 
-&active{
-    fill:red;
+&:hover{
+   transition:400ms;
+   fill: #ED6D75;
+}
+
+&:active{
+    transition:400ms;
+    fill:#92FFD1;
 }
 `
 
