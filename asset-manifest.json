@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.8f8316df.chunk.css",
+    "main.js": "/portafolio/static/js/main.d2336300.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.d2336300.chunk.js.map",
+    "runtime-main.js": "/portafolio/static/js/runtime-main.6a54733d.js",
+    "runtime-main.js.map": "/portafolio/static/js/runtime-main.6a54733d.js.map",
+    "static/js/2.20c318a9.chunk.js": "/portafolio/static/js/2.20c318a9.chunk.js",
+    "static/js/2.20c318a9.chunk.js.map": "/portafolio/static/js/2.20c318a9.chunk.js.map",
+    "static/js/3.b21b1ec4.chunk.js": "/portafolio/static/js/3.b21b1ec4.chunk.js",
+    "static/js/3.b21b1ec4.chunk.js.map": "/portafolio/static/js/3.b21b1ec4.chunk.js.map",
+    "index.html": "/portafolio/index.html",
+    "static/css/main.8f8316df.chunk.css.map": "/portafolio/static/css/main.8f8316df.chunk.css.map",
+    "static/js/2.20c318a9.chunk.js.LICENSE.txt": "/portafolio/static/js/2.20c318a9.chunk.js.LICENSE.txt",
+    "static/media/Recurso 3.70f6b9e7.svg": "/portafolio/static/media/Recurso 3.70f6b9e7.svg",
+    "static/media/Recurso 4.45876357.svg": "/portafolio/static/media/Recurso 4.45876357.svg",
+    "static/media/Recurso 5.cb3c9ba7.svg": "/portafolio/static/media/Recurso 5.cb3c9ba7.svg",
+    "static/media/Recurso 6.a588de62.svg": "/portafolio/static/media/Recurso 6.a588de62.svg",
+    "static/media/Recurso 7.1e67b6bd.svg": "/portafolio/static/media/Recurso 7.1e67b6bd.svg",
+    "static/media/Recurso 8.07781bd9.svg": "/portafolio/static/media/Recurso 8.07781bd9.svg",
+    "static/media/funkolitoM.966dfa12.svg": "/portafolio/static/media/funkolitoM.966dfa12.svg",
+    "static/media/recurso 11.e273851b.svg": "/portafolio/static/media/recurso 11.e273851b.svg",
+    "static/media/recurso 13.172f89b4.svg": "/portafolio/static/media/recurso 13.172f89b4.svg",
+    "static/media/recurso 14.b200e340.svg": "/portafolio/static/media/recurso 14.b200e340.svg",
+    "static/media/recurso 15.6e1359c0.svg": "/portafolio/static/media/recurso 15.6e1359c0.svg",
+    "static/media/recurso12.0deeda07.svg": "/portafolio/static/media/recurso12.0deeda07.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a54733d.js",
+    "static/js/2.20c318a9.chunk.js",
+    "static/css/main.8f8316df.chunk.css",
+    "static/js/main.d2336300.chunk.js"
+  ]
+}

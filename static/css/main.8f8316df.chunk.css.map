@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACI,sBAAuB,CACvB,qBAAsB,CACtB,QAAS,CACT,SACJ,CAEA,KACI,wBAAyB,CACzB,UACJ","file":"main.8f8316df.chunk.css","sourcesContent":["*{\n    font-family: 'Segoe UI'; \n    box-sizing: border-box;\n    margin: 0;\n    padding: 0;\n}\n\nbody{\n    background-color: #1B2027;\n    color: white;\n}"]}
